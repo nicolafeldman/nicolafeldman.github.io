@@ -1,0 +1,147 @@
+body {
+    background-color: #F3F7FD;
+}
+#new {
+    background-color: #5077BE;
+    color: WhiteSmoke;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.top {
+    float: left;
+    margin: 10px;
+    color: #5077BE;
+    font-family:"Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+}
+#name {
+    font-family:"Brush Script MT", cursive;
+    font-size: 36px;
+    border: 2px dotted Indigo;
+    border-radius: 15%;
+    text-align: center;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+#describe {
+    font-family: Papyrus, fantasy;
+    font-size: 12px;
+    padding: 2px;
+}
+#empty {
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+#map {
+    margin-top: -500px;
+}
+.location {
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    position: absolute;
+}
+.advice {
+    width: 200px;
+    position: absolute;
+    font-family:"Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    font-size: 12px;
+    border-radius: 15%;
+    text-align: center;
+    background-color: WhiteSmoke;
+}
+#chem {
+    background-color: yellow;
+    left: 315px;
+    top: 135px;
+}
+#chemA {
+    border: 2px solid yellow;
+    left: 315px;
+    top: 80px;
+}
+#kbt {
+    background-color: lime;
+    left: 365px;
+    top: 265px;
+}
+#kbtA {
+    border: 2px solid lime;
+    left: 365px;
+    top: 210px;
+}
+#flu {
+    background-color: magenta;
+    left: 205px;
+    top: 510px;
+}
+#fluA {
+    border: 2px solid magenta;
+    left: 205px;
+    top: 455px;
+}
+#slifka {
+    background-color: OrangeRed;
+    left: 495px;
+    top: 825px;
+}
+#slifkaA {
+    border: 2px solid OrangeRed;
+    left: 495px;
+    top: 800px;
+}
+#taps {
+    background-color: MediumBlue;
+    left: 145px;
+    top: 800px;
+}
+#tapsA {
+    border: 2px solid MediumBlue;
+    left: 145px;
+    top: 745px;
+}
+#toads {
+    background-color: lime;
+    left: 220px;
+    top: 855px;
+}
+#toadsA {
+    border: 2px solid lime;
+    left: 220px;
+    top: 800px;
+}
+#hair {
+    background-color: yellow;
+    left: 195px;
+    top: 1135px;
+}
+#hairA {
+    border: 2px solid yellow;
+    left: 195px;
+    top: 1090px;
+}
+
+#comment {
+    text-align: center;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    color: #3333A2;
+    font-size: 16px;
+}
+#thanks {
+    width: 50%;
+    text-align: center;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    color: #3333A2;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 20px;
+}
+h2 {
+    font-size: 16px;
+}
+h3 {
+    font-size: 12px;
+    color: #C6C6C6;
+}
